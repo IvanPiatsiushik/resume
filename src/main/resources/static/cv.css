@@ -1,0 +1,140 @@
+body{
+    font-size: 18px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.header{
+    padding-top: 20px;
+    background-color: gainsboro;
+    width: 1000px;
+    height: 148px;
+    margin: auto;
+    border-radius: 5px;
+}
+.div_header{
+    margin-left: 50px;
+}
+.div_header2{
+    margin-top: -132px;
+    margin-left: 257px;
+}
+.h1{
+    margin-top: 10px;
+}
+.section_left{
+    width: 600px;
+    height: 950px;
+    background-color: gainsboro;
+    margin-top: 20px;
+    margin-left: 336px;
+    border-radius: 5px;
+}
+.section_right{
+    width: 380px;
+    height: 950px ;
+    background-color: gainsboro;
+    margin-top: -973px;
+    margin-left: 956px;
+    border-radius: 5px;
+}
+.about_me{
+    width: auto;
+    height: 40px;
+    background-color: gray;
+    border-radius: 5px;
+}
+.about_me_p{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.about_me_h2{
+    margin-left: 240px;
+    margin-top: 5px;
+}
+.technical_skills{
+    width: auto;
+    height: 40px;
+    background-color: gray;
+    border-radius: 5px;
+    line-height: 160%;
+    margin-top: 200px;
+}
+.technical_skills_h2{
+    margin-left: 100px;
+}
+.technical_skills_p{
+    padding-left: 20px;
+    margin-top: 45px;
+}
+.education{
+    width: auto;
+    height: 40px;
+    background-color: gray;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+.education_h2{
+    margin-left: 240px;
+}
+.education_p{
+    padding-left: 20px;
+    padding-right: 20px
+}
+.project{
+    width: auto;
+    height: 40px;
+    background-color: gray;
+    border-radius: 5px;
+    margin-top: 86px;
+}
+.project_h2{
+    margin-left: 161px;
+}
+.project_p{
+    padding-left: 20px;
+    padding-right: 20px
+}
+.contacts{
+    width: auto;
+    height: 40px;
+    background-color: gray;
+    border-radius: 5px;
+}
+.contacts_h2{
+    margin-left: 144px;
+}
+.contacts_p{
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 50px;
+}
+.languages{
+    width: auto;
+    height: 40px;
+    background-color: gray;
+    border-radius: 5px;
+    margin-top: 250px;
+}
+.languages_h2{
+    margin-left: 119px;
+}
+.languages_p{
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 85px;
+}
+.courses{
+    width: auto;
+    height: 40px;
+    background-color: gray;
+    border-radius: 5px;
+    margin-top: 74px;
+}
+.courses_h2{
+    margin-left: 131px;
+    margin-top: 200px;
+}
+.courses_p{
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 66px;
+}

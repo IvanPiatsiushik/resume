@@ -49,6 +49,8 @@ body{
 .about_me_h2{
     margin-left: 240px;
     margin-top: 5px;
+    padding-top: 10px;
+
 }
 .technical_skills{
     width: auto;
@@ -60,6 +62,7 @@ body{
 }
 .technical_skills_h2{
     margin-left: 100px;
+    padding-top: 10px;
 }
 .technical_skills_p{
     padding-left: 20px;
@@ -74,6 +77,8 @@ body{
 }
 .education_h2{
     margin-left: 240px;
+    padding-top: 10px;
+
 }
 .education_p{
     padding-left: 20px;
@@ -88,6 +93,8 @@ body{
 }
 .project_h2{
     margin-left: 161px;
+    padding-top: 10px;
+
 }
 .project_p{
     padding-left: 20px;
@@ -101,6 +108,8 @@ body{
 }
 .contacts_h2{
     margin-left: 144px;
+    padding-top: 10px;
+
 }
 .contacts_p{
     padding-left: 20px;
@@ -116,6 +125,7 @@ body{
 }
 .languages_h2{
     margin-left: 119px;
+    padding-top: 10px;
 }
 .languages_p{
     padding-left: 20px;
@@ -132,6 +142,8 @@ body{
 .courses_h2{
     margin-left: 131px;
     margin-top: 200px;
+    padding-top: 10px;
+
 }
 .courses_p{
     padding-left: 20px;

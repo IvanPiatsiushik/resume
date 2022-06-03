@@ -22,7 +22,8 @@ body{
 }
 .section_left{
     width: 600px;
-    height: 950px;
+    height: 785px;
+    /*height: 950px;*/
     background-color: gainsboro;
     margin-top: 20px;
     margin-left: 315px;
@@ -30,9 +31,11 @@ body{
 }
 .section_right{
     width: 380px;
-    height: 950px ;
+    height: 785px ;
+    /*height: 950px ;*/
     background-color: gainsboro;
-    margin-top: -973px;
+    margin-top: -807px;
+    /*margin-top: -973px;*/
     margin-left: 935px;
     border-radius: 5px;
 }
@@ -66,7 +69,7 @@ body{
 }
 .technical_skills_p{
     padding-left: 20px;
-    margin-top: 45px;
+    margin-top: 1px;
 }
 .education{
     width: auto;
@@ -121,7 +124,7 @@ body{
     height: 40px;
     background-color: gray;
     border-radius: 5px;
-    margin-top: 250px;
+    margin-top: 220px;
 }
 .languages_h2{
     margin-left: 119px;
@@ -130,7 +133,7 @@ body{
 .languages_p{
     padding-left: 20px;
     padding-right: 20px;
-    margin-top: 85px;
+    margin-top: 40px;
 }
 .courses{
     width: auto;
@@ -141,12 +144,15 @@ body{
 }
 .courses_h2{
     margin-left: 131px;
-    margin-top: 200px;
+    margin-top: 135px;
     padding-top: 10px;
 
 }
 .courses_p{
     padding-left: 20px;
     padding-right: 20px;
-    margin-top: 66px;
+    margin-top: 23px;
+}
+.site{
+    font-size: 30px;
 }
